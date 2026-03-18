@@ -4,9 +4,13 @@
 Azure Data Engineering project using  GitHub data pipeline on Azure integrating SQL , Azure Data Factory, Blob Storage (Bronze/Silver layers) and Power BI dashboard for retail sales analytics.
 
 ## 🔧 Tech Stack
+- Resource Group
+- Virtual Machine (VM) in Azure 
 - Azure Blob Storage
-- Azure Data Factory
-- SQL
+- Azure Data Lake Storage Gen2 (ADLS Gen2)
+- SQL SERVER 
+- Power Query Editor with Azure SQL
+- Azure Data Factory - ETL Pipeline
 - Power BI
 
 ## 📊 Workflow
