@@ -20,10 +20,11 @@ Azure Data Engineering project using  GitHub data pipeline on Azure integrating 
 4. Transformed into Silver layer
 5. Dashboard built in Power BI
 
-## 📸 Screenshots
-(Add your images here)
-
 ## 📈 Insights
 - Total Sales: 135K
 - Top Product: Smartwatch
 - Top Location: Bangalore
+
+ 
+ ## 📸 Screenshots
+(Add your images here)
