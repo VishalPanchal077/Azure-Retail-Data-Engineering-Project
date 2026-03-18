@@ -25,6 +25,17 @@ Azure Data Engineering project using  GitHub data pipeline on Azure integrating 
 - Top Product: Smartwatch
 - Top Location: Bangalore
 
+  ## 📸 Azure Data Lake Storage (Gen-2)
+<img width="1909" height="923" alt="Folder ADLS" src="https://github.com/user-attachments/assets/2705c72a-3946-4663-81a7-b3c40e44ec74" />
  
- ## 📸 Screenshots
-"D:\Cloud Azure\Work Photo\Dashboard.png"
+  ## 📸 Azure Data Factory:
+ <img width="1919" height="922" alt="Azure Data Factory" src="https://github.com/user-attachments/assets/1050f9c3-59d8-4e91-9a14-c44cad10a26e" />
+
+ 
+  ## 📸 Dashboard Image
+ <img width="1419" height="800" alt="Dashboard" src="https://github.com/user-attachments/assets/eca34a92-b832-430a-874c-7798cd716223" />
+
+
+
+
+
