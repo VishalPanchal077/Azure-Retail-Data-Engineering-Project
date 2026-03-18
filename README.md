@@ -27,4 +27,4 @@ Azure Data Engineering project using  GitHub data pipeline on Azure integrating 
 
  
  ## 📸 Screenshots
-(Add your images here)
+"D:\Cloud Azure\Work Photo\Dashboard.png"
